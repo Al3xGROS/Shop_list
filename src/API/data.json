@@ -1,0 +1,17 @@
+{
+    "courses": [
+        {
+            "produit": "bananes",
+            "qte": "4"
+        },
+        {
+            "produit": "tomates",
+            "qte": "6"
+        },
+        {
+            "produit": "kiwis",
+            "qte": "8"
+        }
+    ],
+    "sequence": "1"
+}
